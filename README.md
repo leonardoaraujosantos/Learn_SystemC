@@ -1,5 +1,10 @@
-# Learn_SystemC
+# Learning SystemC
 Learn basics of [SystemC](http://www.accellera.org/downloads/standards/systemc)
+
+## First things
+* It's not a language it's a C++ library
+* Attempt to make HW/SW/Algo engineers to use the same language (C++)
+* Not supported by much FPGA vendors
 
 ### SystemC Tutorials and References
 * [Wikipedia](https://en.wikipedia.org/wiki/SystemC)
