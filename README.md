@@ -1,6 +1,21 @@
 # Learning SystemC
 Learn basics of [SystemC](http://www.accellera.org/downloads/standards/systemc)
 
+### SystemC Tutorials and References
+* [Wikipedia](https://en.wikipedia.org/wiki/SystemC)
+* [Tutorial](http://www.es.ele.tue.nl/~heco/courses/ProcDesign/systemc_1_tutorial.pdf)
+* [Doulos SystemC tutorial](https://www.doulos.com/knowhow/systemc/tutorial/)
+* [Asic World tutorial](http://www.asic-world.com/systemc/tutorial.html)
+* [Getting Started](http://www.electrobucket.com/systemc/getting-started-with-systemc)
+* [Video tutorials](https://www.youtube.com/watch?v=NCFxBGLB5xs)
+* [Portuguese presentation](http://slideplayer.com.br/slide/359173/)
+
+### Some other references
+* [Cmake](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
+* [Using Cmake libraries](https://coderwall.com/p/y3zzbq/use-cmake-enabled-libraries-in-your-cmake-project)
+* [Cmake third party libraries](https://www.selectiveintellect.net/blog/2016/7/29/using-cmake-to-add-third-party-libraries-to-your-project-1)
+
+
 ## First things
 * It's not a language it's a C++ library
 * Attempt to make HW/SW/Algo engineers to use the same language (C++)
@@ -34,16 +49,3 @@ int sc_main(int argc, char* argv[]) {
 g++ adder.cpp -I/home/laraujo/systemc-2.3.2/include -L/home/laraujo/systemc-2.3.2/lib-linux64 -lsystemc
 ```
 We're adding cmake scrips to make life easier
-
-### SystemC Tutorials and References
-* [Wikipedia](https://en.wikipedia.org/wiki/SystemC)
-* [Tutorial](http://www.es.ele.tue.nl/~heco/courses/ProcDesign/systemc_1_tutorial.pdf)
-* [Doulos SystemC tutorial](https://www.doulos.com/knowhow/systemc/tutorial/)
-* [Asic World tutorial](http://www.asic-world.com/systemc/tutorial.html)
-* [Getting Started](http://www.electrobucket.com/systemc/getting-started-with-systemc)
-* [Video tutorials](https://www.youtube.com/watch?v=NCFxBGLB5xs)
-
-### Some other references
-* [Cmake](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
-* [Using Cmake libraries](https://coderwall.com/p/y3zzbq/use-cmake-enabled-libraries-in-your-cmake-project)
-* [Cmake third party libraries](https://www.selectiveintellect.net/blog/2016/7/29/using-cmake-to-add-third-party-libraries-to-your-project-1)
