@@ -5,6 +5,7 @@ Learn basics of SystemC
 * [Doulos SystemC tutorial](https://www.doulos.com/knowhow/systemc/tutorial/)
 * [Asic World tutorial](http://www.asic-world.com/systemc/tutorial.html)
 * [Getting Started](http://www.electrobucket.com/systemc/getting-started-with-systemc)
+* [Video tutorials](https://www.youtube.com/watch?v=NCFxBGLB5xs)
 
 ### Some other references
 * [Cmake](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
