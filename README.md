@@ -1,7 +1,8 @@
 # Learn_SystemC
-Learn basics of SystemC
+Learn basics of [SystemC](http://www.accellera.org/downloads/standards/systemc)
 
 ### SystemC Tutorials and References
+* [Wikipedia](https://en.wikipedia.org/wiki/SystemC)
 * [Doulos SystemC tutorial](https://www.doulos.com/knowhow/systemc/tutorial/)
 * [Asic World tutorial](http://www.asic-world.com/systemc/tutorial.html)
 * [Getting Started](http://www.electrobucket.com/systemc/getting-started-with-systemc)
