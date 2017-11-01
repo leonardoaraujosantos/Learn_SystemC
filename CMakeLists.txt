@@ -1,5 +1,14 @@
 cmake_minimum_required(VERSION 2.8)
 
+# Locate GTest
+find_package(GTest REQUIRED)
+include_directories(${GTEST_INCLUDE_DIRS})
+
+include_directories(
+    ${GTEST_INCLUDE_DIRS}
+    ${GMOCK_INCLUDE_DIRS}
+)
+
 # Needed to include the "ExternalProject" command
 include(${CMAKE_ROOT}/Modules/ExternalProject.cmake)
 
