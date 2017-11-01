@@ -14,6 +14,9 @@ Learn basics of [SystemC](http://www.accellera.org/downloads/standards/systemc)
 * [Cmake](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
 * [Using Cmake libraries](https://coderwall.com/p/y3zzbq/use-cmake-enabled-libraries-in-your-cmake-project)
 * [Cmake third party libraries](https://www.selectiveintellect.net/blog/2016/7/29/using-cmake-to-add-third-party-libraries-to-your-project-1)
+* [Typical Linux CMake](http://kaizou.org/2014/11/typical-cmake-project/)
+* [Google Test I](http://www.yolinux.com/TUTORIALS/Cpp-GoogleTest.html)
+* [Google Test II](https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/)
 
 
 ## First things
