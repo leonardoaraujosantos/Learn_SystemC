@@ -49,8 +49,8 @@ int sc_main(int argc, char* argv[]) {
 ```
 ## Compiling (by hand)
 ```bash
-g++ adder.cpp -I/home/laraujo/systemc-2.3.2/include -L/home/laraujo/systemc-2.3.2/lib-linux64 -lsystemc
-g++ test_adder.cpp -lgtest -lgtest_main -lpthread
+g++ adder.cpp -I/systemc-2.3.2/include -L/systemc-2.3.2/lib-linux64 -lsystemc -o adder
+g++ test_adder.cpp -I/systemc-2.3.2/include -L/systemc-2.3.2/lib-linux64 -lsystemc -lgtest -lgtest_main -lpthread -o test_adder 
 ```
 ## Compiling with CMake
 ```bash
