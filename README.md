@@ -22,6 +22,7 @@ Learn basics of [SystemC](http://www.accellera.org/downloads/standards/systemc)
 * [Another Jenkins Tutorial](http://www.vogella.com/tutorials/Jenkins/article.html)
 * [Building C++ Tensorflow API](https://github.com/cjweeks/tensorflow-cmake)
 * [Catch framework and Jenkins](https://github.com/philsquared/Catch/blob/e0aaba6cf84c2e932c9a87dd26263875628c4c4f/docs/reporters.md)
+* [CMake, Google test and Jenkins](https://schneide.wordpress.com/2014/01/27/integrating-googletest-in-cmake-projects-and-jenkins/)
 
 ## First things
 * It's not a language it's a C++ library
