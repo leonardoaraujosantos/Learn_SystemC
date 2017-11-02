@@ -19,7 +19,9 @@ Learn basics of [SystemC](http://www.accellera.org/downloads/standards/systemc)
 * [Google Test II](https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/)
 * [Installing Jenkins](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04)
 * [Jenkins long video tutorial](https://www.youtube.com/watch?v=Lxd6JMMxuwo)
-
+* [Another Jenkins Tutorial](http://www.vogella.com/tutorials/Jenkins/article.html)
+* [Building C++ Tensorflow API](https://github.com/cjweeks/tensorflow-cmake)
+* [Catch framework and Jenkins](https://github.com/philsquared/Catch/blob/e0aaba6cf84c2e932c9a87dd26263875628c4c4f/docs/reporters.md)
 
 ## First things
 * It's not a language it's a C++ library
