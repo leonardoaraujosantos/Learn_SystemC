@@ -15,7 +15,7 @@ TEST(AdditionTest,twoValues){
 	cout << "d=a+(b*1000)=" << d << endl;
 	cout << "a+(b*1000)=" << a+(b*1000) << endl;
 
-	EXPECT_EQ(1,c);
+	EXPECT_EQ(0,c);
 	EXPECT_EQ(9,d);
 	EXPECT_EQ(66535,a+(b*1000));
 }
