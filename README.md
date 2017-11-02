@@ -17,6 +17,8 @@ Learn basics of [SystemC](http://www.accellera.org/downloads/standards/systemc)
 * [Typical Linux CMake](http://kaizou.org/2014/11/typical-cmake-project/)
 * [Google Test I](http://www.yolinux.com/TUTORIALS/Cpp-GoogleTest.html)
 * [Google Test II](https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/)
+* [Installing Jenkins](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04)
+* [Jenkins long video tutorial](https://www.youtube.com/watch?v=Lxd6JMMxuwo)
 
 
 ## First things
