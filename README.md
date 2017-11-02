@@ -52,6 +52,29 @@ int sc_main(int argc, char* argv[]) {
   return(0);
 }
 ```
+
+## Combinational Circuit
+```C++
+#include "systemc.h"
+SC_MODULE (half_add) {
+  // Input and Output ports
+  sc_out<sc_logic> s,c;
+  sc_in<sc_logic> a,b;
+  
+  // Pure C++ coder here (For synthesis depends on HLS power...)
+  void compute(){
+    s = a ^ b; // a XOR b
+    c = a & b; // a AND b
+  }
+  
+  SC_CTOR (half_add) {
+    // Kind of always_comb block (Sensitive to a and b)
+    SC_METHOD(compute);
+    sensitive << a << b;
+  }  
+};
+```
+
 ## Compiling (by hand)
 ```bash
 g++ adder.cpp -I/systemc-2.3.2/include -L/systemc-2.3.2/lib-linux64 -lsystemc -o adder
